@@ -76,7 +76,7 @@ You can access and interact with the Google.com clone directly from your web bro
 ### Dark Mode
 
 ![Dark Mode](./img/screenshot/image-2.png)
-![Dark Mode](./img/screenshot/image-5.png)
+![Dark Mode](./img/screenshot/image-5.PNG)
 
 ### Landscape Mode
 
